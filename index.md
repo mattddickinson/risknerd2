@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /
+permalink: /index
 hidden: true
 header:
   overlay_color: "#6c5e5e"
