@@ -3,8 +3,7 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_color: "#6c5e5e"
-  overlay_image: /assets/images/solutions-header.png
+  image: /assets/images/solutions-header.png
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
