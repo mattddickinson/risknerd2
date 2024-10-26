@@ -4,7 +4,7 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Solutions"
+    url: /solutions
   - title: "Privacy Statement"
-    url: /_pages/privacy/
+    url: /privacy
