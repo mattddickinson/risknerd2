@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /
+permalink: /solutions
 hidden: true
 header:
   image: /assets/images/solutions-header.png
