@@ -11,7 +11,7 @@ header:
     - label: "Download"
       url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: ""
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+excerpt: "We value the trust you place in us and are dedicated to maintaining the confidentiality and security of your personal information. If you have any questions or concerns about how we collect, use and store your information, we invite you to reach out to us at info@risknerd.ca."
 ---
 
 ### Your Privacy. Our Priority.
