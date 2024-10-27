@@ -10,7 +10,7 @@ header:
       url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: ""
 excerpt: "We tailor our services to your organization to account for the unique factors that create value for you."
-Risk_Management_1:
+feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "Enterprise Risk Management (ERM)"
     title: "Enterprise Risk Management (ERM)"
@@ -23,20 +23,20 @@ Risk_Management_1:
     alt: "Strategic Risk Management"
     title: "Strategic Risk Management"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-Risk_Management_2:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "Third-Party Risk Management"
-    title: "Third-Party Risk Management"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "Reputation Risk Management"
-    title: "Reputation Risk Management"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "Privacy Risk Management"
-    title: "Privacy Risk Management"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-Organizational_Resilience:
+#Risk_Management_2:
+#  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+#    alt: "Third-Party Risk Management"
+#    title: "Third-Party Risk Management"
+#    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+#  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+#    alt: "Reputation Risk Management"
+#    title: "Reputation Risk Management"
+#    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+#  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+#    alt: "Privacy Risk Management"
+#    title: "Privacy Risk Management"
+#    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "Organizational_Resilience"
     title: "Organizational_Resilience"
@@ -44,7 +44,7 @@ Organizational_Resilience:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-Business_Process_Analysis:
+feature_row3:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "Business_Process_Analysis"
     title: "Business_Process_Analysis"
@@ -54,6 +54,8 @@ Business_Process_Analysis:
     btn_class: "btn--primary"
   
 ---
+
+{% include feature_row %}
 
 {% include feature_row id="Risk_Management_1" %}
 
