@@ -25,21 +25,21 @@ feature_row:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_rowRM2:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "Third-Party Risk Management"
+    alt: ""
     title: "Third-Party Risk Management"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "Reputation Risk Management"
+    alt: ""
     title: "Reputation Risk Management"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "Privacy Risk Management"
+    alt: ""
     title: "Privacy Risk Management"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: ""
-    title: "Organizational_Resilience"
+    title: "Organizational Resilience"
     excerpt: 'Business Continuity, Emergency Management, Disaster Recovery, Crisis Communications'
     url: "#test-link"
     btn_label: "Read More"
@@ -47,7 +47,7 @@ feature_row2:
 feature_row3:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: ""
-    title: "Business_Process_Analysis"
+    title: "Business Process Analysis"
     excerpt: 'A business process analysis reviews the business processes in your company, using data to identify and make changes that boost efficiency.'
     url: "#test-link"
     btn_label: "Read More"
