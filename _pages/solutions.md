@@ -12,15 +12,15 @@ header:
 excerpt: "We tailor our services to your organization to account for the unique factors that create value for you."
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "Enterprise Risk Management (ERM)"
+    alt: ""
     title: "Enterprise Risk Management (ERM)"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "Operational Risk Management (ORM)"
+    alt: ""
     title: "Operational Risk Management (ORM)"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "Strategic Risk Management"
+    alt: ""
     title: "Strategic Risk Management"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 #Risk_Management_2:
@@ -38,7 +38,7 @@ feature_row:
 #    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "Organizational_Resilience"
+    alt: ""
     title: "Organizational_Resilience"
     excerpt: 'Business Continuity, Emergency Management, Disaster Recovery, Crisis Communications'
     url: "#test-link"
@@ -46,7 +46,7 @@ feature_row2:
     btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "Business_Process_Analysis"
+    alt: ""
     title: "Business_Process_Analysis"
     excerpt: 'A business process analysis reviews the business processes in your company, using data to identify and make changes that boost efficiency.'
     url: "#test-link"
