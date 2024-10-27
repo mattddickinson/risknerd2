@@ -8,10 +8,10 @@ header:
   overlay_color: "#5e616c"
   overlay_image: "/assets/images/header.png"
   actions:
-    - label: "Download"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
+    - label: "Email Us"
+      url: "mailto:info@risknerd.ca?subject=Privacy Question"
   caption: ""
-excerpt: "We value the trust you place in us and are dedicated to maintaining the confidentiality and security of your personal information. If you have any questions or concerns about how we collect, use and store your information, we invite you to reach out to us at info@risknerd.ca."
+excerpt: "We value the trust you place in us and are dedicated to maintaining the confidentiality and security of your personal information. If you have any questions or concerns about how we collect, use and store your information, we invite you to reach out to us using the link below."
 ---
 
 ### Your Privacy. Our Priority.
