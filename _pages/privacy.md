@@ -6,7 +6,12 @@ last_modified_at: 2024-10-26T18:01:38-03:00
 toc: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: "/assets/images/privacy.png"
+  overlay_image: "/assets/images/header.png"
+  actions:
+    - label: "Download"
+      url: "https://github.com/mmistakes/minimal-mistakes/"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 ---
 
 ### Your Privacy. Our Priority.
