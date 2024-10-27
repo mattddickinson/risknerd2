@@ -57,10 +57,8 @@ feature_row3:
 
 {% include feature_row %}
 
-{% include feature_row id="Risk_Management_1" %}
+{% include feature_row id="feature_row" %}
 
-{% include feature_row id="Risk_Management_2" %}
+{% include feature_row id="feature_row2" type="left" %}
 
-{% include feature_row id="Organizational Resilience" type="left" %}
-
-{% include feature_row id="Business Process Analysis" type="right" %}
+{% include feature_row id="feature_row3" type="right" %}
