@@ -23,19 +23,19 @@ feature_row:
     alt: ""
     title: "Strategic Risk Management"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-#Risk_Management_2:
-#  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-#    alt: "Third-Party Risk Management"
-#    title: "Third-Party Risk Management"
-#    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-#  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-#    alt: "Reputation Risk Management"
-#    title: "Reputation Risk Management"
-#    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-#  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-#    alt: "Privacy Risk Management"
-#    title: "Privacy Risk Management"
-#    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+feature_rowRM2:
+  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+    alt: "Third-Party Risk Management"
+    title: "Third-Party Risk Management"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "Reputation Risk Management"
+    title: "Reputation Risk Management"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "Privacy Risk Management"
+    title: "Privacy Risk Management"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: ""
@@ -57,7 +57,7 @@ feature_row3:
 
 {% include feature_row %}
 
-{% include feature_row id="feature_row" %}
+{% include feature_row id="feature_rowRM2" %}
 
 {% include feature_row id="feature_row2" type="left" %}
 
