@@ -4,7 +4,7 @@ permalink: /solutions
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: "/assets/images/solutions-header.svg"
+  overlay_image: "/assets/images/solutions.png"
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
