@@ -59,6 +59,10 @@ $h-size-6: 1em !default; // ~16px
    ========================================================================== */
 
 $blue-gray: #44546A !default;
+$dark-blue-gray: mix(#000, $blue-gray, 50%) !default;
+$darker-blue-gray: mix(#000, $blue-gray, 60%) !default;
+$light-blue-gray: mix(#ffffff, $blue-gray, 50%) !default;
+$lighter-blue-gray: mix(#ffffff, $blue-gray, 90%) !default;
 $gray: #7a8288 !default;
 $dark-gray: mix(#000, $gray, 50%) !default;
 $darker-gray: mix(#000, $gray, 60%) !default;
@@ -69,7 +73,7 @@ $background-color: #ffffff !default;
 $code-background-color: #fafafa !default;
 $code-background-color-dark: $light-gray !default;
 $text-color: $dark-gray !default;
-$muted-text-color: mix(#ffffff, $blue-gray, 90%) !default;
+$muted-text-color: $lighter-blue-gray !default;
 $border-color: $lighter-gray !default;
 $form-background-color: $lighter-gray !default;
 $footer-background-color: $blue-gray !default;
