@@ -55,9 +55,9 @@ Business_Process_Analysis:
   
 ---
 
-{% include Risk_Management_1 %}
+{% include feature_row id="Risk_Management_1" %}
 
-{% include Risk_Management_2 %}
+{% include feature_row id="Risk_Management_2" %}
 
 {% include feature_row id="Organizational Resilience" type="left" %}
 
