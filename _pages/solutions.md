@@ -9,57 +9,56 @@ header:
     - label: "Download"
       url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: ""
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
-intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
-feature_row:
+excerpt: "We tailor our services to your organization to account for the unique factors that create value for you."
+Risk_Management_1:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
+    alt: "Enterprise Risk Management (ERM)"
+    title: "Enterprise Risk Management (ERM)"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
+    alt: "Operational Risk Management (ORM)"
+    title: "Operational Risk Management (ORM)"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "Strategic Risk Management"
+    title: "Strategic Risk Management"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+Risk_Management_2:
+  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+    alt: "Third-Party Risk Management"
+    title: "Third-Party Risk Management"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "Reputation Risk Management"
+    title: "Reputation Risk Management"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "Privacy Risk Management"
+    title: "Privacy Risk Management"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+Organizational_Resilience:
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "Organizational_Resilience"
+    title: "Organizational_Resilience"
+    excerpt: 'Business Continuity, Emergency Management, Disaster Recovery, Crisis Communications'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-feature_row2:
+Business_Process_Analysis:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    alt: "Business_Process_Analysis"
+    title: "Business_Process_Analysis"
+    excerpt: 'A business process analysis reviews the business processes in your company, using data to identify and make changes that boost efficiency.'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row3:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row4:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"    
+  
 ---
 
-{% include feature_row id="intro" type="center" %}
+{% include Risk_Management_1 %}
 
-{% include feature_row %}
+{% include Risk_Management_2 %}
 
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="Organizational Resilience" type="left" %}
 
-{% include feature_row id="feature_row3" type="right" %}
-
-{% include feature_row id="feature_row4" type="center" %}
+{% include feature_row id="Business Process Analysis" type="right" %}
