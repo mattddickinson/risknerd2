@@ -113,10 +113,10 @@ analytics:
 # Site Author
 author:
   name             : "RiskNerd Consulting"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  avatar           : "/assets/images/bio-photo.jpg"
+  #bio              : "I am an **amazing** person."
+  location         : "Halifax, NS, Canada"
+  #email            : "matt@risknerd.ca"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -124,9 +124,9 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.risknerd.ca"
-    - label: "Twitter"
+    - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/company/risknerd"
+      url: "https://www.linkedin.com/in/mattddickinson"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -140,9 +140,9 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
+    - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/company/risknerd"
+      url: "https://www.linkedin.com/company/risknerd"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
