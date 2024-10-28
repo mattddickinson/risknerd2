@@ -8,8 +8,8 @@ header:
   overlay_color: "#5e616c"
   overlay_image: "/assets/images/header.png"
   actions:
-    - label: "Download"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
+    - label: ""
+      url: ""
   caption: ""
 excerpt: "We tailor our services to your organization to account for the unique factors that create value for you."
 feature_rowRM1:
