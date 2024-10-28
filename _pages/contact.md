@@ -3,7 +3,6 @@ title: "Get in Touch"
 layout: splash
 permalink: /contact
 hidden: true
-classes: wide
 toc: false
 author_profile: false
 header:
