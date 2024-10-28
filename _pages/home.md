@@ -1,6 +1,6 @@
 ---
 title: "RiskNerd Consulting"
-layout: home
+layout: splash
 permalink: /
 hidden: true
 header:
