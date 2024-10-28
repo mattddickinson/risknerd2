@@ -1,6 +1,6 @@
 ---
 title: "Get in Touch"
-layout: single
+layout: splash
 permalink: /contact
 hidden: true
 classes: wide
