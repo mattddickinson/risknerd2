@@ -35,17 +35,30 @@ feature_rowRM:
     title: "Privacy Risk Management"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_rowOR:
+  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+    alt: ""
+    title: "Business Continuity"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: ""
-    title: "Organizational Resilience"
-    excerpt: 'Business Continuity, Emergency Management, Disaster Recovery, Crisis Communications'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    title: "Emergency Management"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: ""
+    title: "Disaster Recovery"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+    alt: ""
+    title: "Crisis Communications"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+    alt: ""
+    title: "Business Impact Analysis"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_rowBPA:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: ""
-    title: "Business Process Analysis"
+    title: ""
     excerpt: 'A business process analysis reviews the business processes in your company, using data to identify and make changes that boost efficiency.'
     url: "#test-link"
     btn_label: "Read More"
@@ -53,8 +66,14 @@ feature_rowBPA:
   
 ---
 
+## Risk Management
+
 {% include feature_row id="feature_rowRM" %}
 
-{% include feature_row id="feature_rowOR" type="center" %}
+## Operational Resilience
+
+{% include feature_row id="feature_rowOR" %}
+
+## Business Process Analysis
 
 {% include feature_row id="feature_rowBPA" type="center" %}
