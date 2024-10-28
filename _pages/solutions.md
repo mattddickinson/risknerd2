@@ -22,7 +22,6 @@ feature_rowRM1:
     alt: ""
     title: "Strategic Risk Management"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-feature_rowRM2:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: ""
     title: "Third-Party Risk Management"
@@ -55,8 +54,6 @@ feature_rowBPA:
 ---
 
 {% include feature_row id="feature_rowRM1" %}
-
-{% include feature_row id="feature_rowRM2" %}
 
 {% include feature_row id="feature_rowOR" type="left" %}
 
