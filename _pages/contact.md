@@ -1,8 +1,9 @@
 ---
 title: "Get in Touch"
-layout: splash
+layout: single
 permalink: /contact
 hidden: true
+toc: false
 header:
   overlay_color: "#5e616c"
   overlay_image: "/assets/images/header.png"
@@ -10,10 +11,12 @@ header:
 excerpt: "Want to get in touch? Let's talk about how we can support your business. Here's how to reach us:"    
 ---
 
-**Email**
+**Email:**
 
 [{% include icon.html id="email" title="email" %}](mailto:info@risknerd.ca)[info@risknerd.ca](mailto:info@risknerd.ca "Send us an email")
 
-**Linkedin**
+**Linkedin:**
 
 [{% include icon.html id="linkedin" title="linkedin" %}](https://www.linkedin.com/company/risknerd)[RiskNerd Consulting](https://www.linkedin.com/company/risknerd "Connect on LinkedIn")
+
+---
