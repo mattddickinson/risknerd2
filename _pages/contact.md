@@ -3,6 +3,7 @@ title: "Get in Touch"
 layout: single
 permalink: /contact
 hidden: true
+classes: wide
 toc: false
 header:
   overlay_color: "#5e616c"
