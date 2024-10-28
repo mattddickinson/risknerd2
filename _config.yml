@@ -116,7 +116,7 @@ author:
   avatar           : "/assets/images/bio-photo.jpg"
   #bio              : "I am an **amazing** person."
   location         : "Halifax, NS, Canada"
-  #email            : "matt@risknerd.ca"
+  email            : "matt@risknerd.ca"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

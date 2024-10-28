@@ -3,6 +3,7 @@ title: "RiskNerd Consulting"
 layout: splash
 permalink: /
 hidden: true
+author_profile: false
 header:
   overlay_color: "#5e616c"
   overlay_image: "/assets/images/header.png"
