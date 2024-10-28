@@ -120,13 +120,13 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:info@risknerd.ca"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://www.risknerd.ca"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/company/risknerd"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -141,8 +141,8 @@ author:
 footer:
   links:
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/company/risknerd"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
