@@ -1,6 +1,6 @@
 ---
 title: "Solutions"
-layout: 
+layout: home
 permalink: /solutions
 hidden: true
 header:
