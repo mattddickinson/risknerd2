@@ -127,6 +127,8 @@ blockquote {
 /* links */
 
 a {
+  text-decoration: none;
+
   &:focus {
     @extend %tab-focus;
   }
@@ -186,7 +188,7 @@ li ol {
    Media and embeds
    ========================================================================== */
 
-   
+
 /* Links, icons and images */
 a .icon {
   transition: fill .1s;
