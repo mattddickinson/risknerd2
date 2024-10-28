@@ -1,4 +1,5 @@
 ---
+title: "RiskNerd Consulting"
 layout: home
 permalink: /
 hidden: true

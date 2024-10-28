@@ -1,7 +1,7 @@
 ---
+title: "Privacy Statement"
 layout: single
 permalink: /privacy
-title: "Privacy Statement"
 last_modified_at: 2024-10-26T18:01:38-03:00
 toc: true
 header:
