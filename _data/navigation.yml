@@ -2,9 +2,9 @@
 main:
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
   - title: "Solutions"
     url: /solutions
   - title: "Privacy Statement"
     url: /privacy
+  - title: "Get in Touch"
+    url: /contact
