@@ -4,6 +4,7 @@ layout: splash
 permalink: /solutions
 hidden: true
 classes: wide
+toc: false
 header:
   overlay_color: "#5e616c"
   overlay_image: "/assets/images/header.png"
