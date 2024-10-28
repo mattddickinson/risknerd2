@@ -55,25 +55,16 @@ feature_rowOR:
     alt: ""
     title: "Business Impact Analysis"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-feature_rowBPA:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: ""
-    title: ""
-    excerpt: 'A business process analysis reviews the business processes in your company, using data to identify and make changes that boost efficiency.'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
   
 ---
 
-## Risk Management
+# Risk Management
 
 {% include feature_row id="feature_rowRM" %}
 
-## Operational Resilience
+# Operational Resilience
 
 {% include feature_row id="feature_rowOR" %}
 
-## Business Process Analysis
-
-{% include feature_row id="feature_rowBPA" type="center" %}
+# Business Process Analysis
+A business process analysis reviews the business processes in your company, using data to identify and make changes that boost efficiency.
