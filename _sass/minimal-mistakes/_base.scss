@@ -186,6 +186,22 @@ li ol {
    Media and embeds
    ========================================================================== */
 
+   
+/* Links, icons and images */
+a .icon {
+  transition: fill .1s;
+  &:hover {
+    fill: currentColor;
+  }
+}
+
+.icon {
+  vertical-align: middle;
+  width: 1.1em;
+  height: 1.1em;
+  fill: CurrentColor;
+}
+
 /* Figures and images */
 
 figure {
