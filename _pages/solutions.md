@@ -9,7 +9,7 @@ header:
   overlay_image: "/assets/images/header.png"
   caption: ""
 excerpt: "We tailor our services to your organization to account for the unique factors that create value for you."
-feature_rowRM1:
+feature_rowRM:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: ""
     title: "Enterprise Risk Management (ERM)"
@@ -53,8 +53,8 @@ feature_rowBPA:
   
 ---
 
-{% include feature_row id="feature_rowRM1" %}
+{% include feature_row id="feature_rowRM" %}
 
-{% include feature_row id="feature_rowOR" type="left" %}
+{% include feature_row id="feature_rowOR" type="center" %}
 
-{% include feature_row id="feature_rowBPA" type="right" %}
+{% include feature_row id="feature_rowBPA" type="center" %}
