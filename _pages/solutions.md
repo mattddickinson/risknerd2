@@ -1,6 +1,6 @@
 ---
 title: "Solutions"
-layout: home
+layout: splash
 permalink: /solutions
 hidden: true
 header:
@@ -11,7 +11,7 @@ header:
       url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: ""
 excerpt: "We tailor our services to your organization to account for the unique factors that create value for you."
-feature_row:
+feature_rowRM1:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: ""
     title: "Enterprise Risk Management (ERM)"
@@ -37,7 +37,7 @@ feature_rowRM2:
     alt: ""
     title: "Privacy Risk Management"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-feature_row2:
+feature_rowOR:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: ""
     title: "Organizational Resilience"
@@ -45,7 +45,7 @@ feature_row2:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row3:
+feature_rowBPA:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: ""
     title: "Business Process Analysis"
@@ -56,10 +56,10 @@ feature_row3:
   
 ---
 
-{% include feature_row %}
+{% include feature_row id="feature_rowRM1" %}
 
 {% include feature_row id="feature_rowRM2" %}
 
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_rowOR" type="left" %}
 
-{% include feature_row id="feature_row3" type="right" %}
+{% include feature_row id="feature_rowBPA" type="right" %}
