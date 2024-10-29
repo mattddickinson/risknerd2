@@ -84,7 +84,6 @@
 }
 
 .page__footer-other {
-  align-items: right;
 
   ul {
     margin: 0;
@@ -93,6 +92,7 @@
   }
 
   li {
+    align-items: right;
     display: inline-block;
     padding-top: 5px;
     padding-bottom: 5px;
