@@ -19,11 +19,11 @@ layout: default
 {% endif %}
 
 <div id="main" role="main">
-  {% if page.author_profile == false %}
+  {% if page.author_profile == "false" %}
 
   {% else %}
     {% include sidebar.html %}
-    
+
   {% endif %}
 
   <article class="page" itemscope itemtype="https://schema.org/CreativeWork"{% if page.locale %} lang="{{ page.locale }}"{% endif %}>
