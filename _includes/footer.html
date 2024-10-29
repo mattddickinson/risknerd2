@@ -24,7 +24,7 @@
       {% if site.footer.otherlinks %}
       {% for link in site.footer.otherlinks %}
         {% if link.label and link.url %}
-          <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer">{{ link.label }}</a></li>
+          <li><a href="{{ link.url | relative_url }}" rel="nofollow noopener noreferrer">{{ link.label }}</a></li>
         {% endif %}
       {% endfor %}
       {% endif %}
