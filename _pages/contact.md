@@ -1,6 +1,5 @@
 ---
 title: "Get in Touch"
-layout: 
 permalink: /contact
 hidden: true
 toc: false
