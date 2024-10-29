@@ -19,7 +19,6 @@
 </div>
 
 <div class="page__footer-other">
-  <ul class="social-icons">
     {% if site.footer.otherlinks %}
     {% for link in site.footer.otherlinks %}
       {% if link.label and link.url %}
@@ -27,7 +26,6 @@
       {% endif %}
     {% endfor %}
   {% endif %}
-  </ul>
 </div>
 
 <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} <a href="{{ site.copyright_url | default: site.url }}">{{ site.copyright | default: site.title }}</a>.</div>
