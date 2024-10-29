@@ -24,14 +24,14 @@ name                     : "RiskNerd Consulting"
 description              : "An amazing website."
 url                      : "https://mattddickinson.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/risknerd2" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/mattddickinson/risknerd/" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "https://github.com/mattddickinson/risknerd2/" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/logos/logo.svg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
-copyright                : "RiskNerd Consulting" # "copyright" name, defaults to site.title
+copyright                : # "copyright" name, defaults to site.title
 copyright_url            : "https://mattddickinson.github.io/risknerd2" # "copyright" URL, defaults to site.url
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
