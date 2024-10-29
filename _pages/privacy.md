@@ -1,6 +1,6 @@
 ---
 title: "Privacy Statement"
-layout: splash
+layout: 
 permalink: /privacy
 last_modified_at: 2024-10-26
 toc: true

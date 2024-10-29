@@ -1,6 +1,6 @@
 ---
 title: "RiskNerd Consulting"
-layout: splash
+layout: 
 permalink: /
 hidden: true
 author_profile: false
