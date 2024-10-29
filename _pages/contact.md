@@ -10,6 +10,7 @@ header:
   overlay_image: "/assets/images/header.png"
   caption: ""
 excerpt: "Want to get in touch? Let's talk about how we can support your business. Here's how to reach us:"    
+paragraph_indent: true
 ---
 
 **Email:**
