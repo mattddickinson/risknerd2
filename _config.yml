@@ -139,7 +139,7 @@ author:
 
 # Site Footer
 footer:
-  links:
+  followlinks:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/company/risknerd"
@@ -155,6 +155,7 @@ footer:
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
+  otherlinks:
     - label: "Privacy Statement"
       url: /privacy
 
