@@ -3,7 +3,7 @@ title: "Privacy Statement"
 permalink: /privacy
 last_modified_at: 2024-10-26
 toc: true
-author_profile: false
+toc_sticky: true
 header:
   overlay_color: "#5e616c"
   overlay_image: "/assets/images/header.png"
