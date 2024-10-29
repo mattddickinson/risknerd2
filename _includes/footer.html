@@ -19,13 +19,15 @@
     </ul>
   </span>
   <span class="right">
-    {% if site.footer.otherlinks %}
-    {% for link in site.footer.otherlinks %}
-      {% if link.label and link.url %}
-        <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer">{{ link.label }}</a></li>
+    <ul>
+      {% if site.footer.otherlinks %}
+      {% for link in site.footer.otherlinks %}
+        {% if link.label and link.url %}
+          <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer">{{ link.label }}</a></li>
+        {% endif %}
+      {% endfor %}
       {% endif %}
-    {% endfor %}
-    {% endif %}
+    </ul>
   </span>
 </div>
 
