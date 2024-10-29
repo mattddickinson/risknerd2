@@ -24,12 +24,12 @@
       {% if site.footer.otherlinks %}
       {% for link in site.footer.otherlinks %}
         {% if link.label and link.url %}
-          <li><a href="{{ link.url | relative_url }}" rel="nofollow noopener noreferrer">{{ link.label }}</a></li>
+          <li><a href="{{ link.url | relative_url }}"> {{ link.label }}</a></li>
         {% endif %}
       {% endfor %}
       {% endif %}
     </ul>
   </span>
 </div>
-<br>
+
 <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} <a href="{{ site.copyright_url | default: site.url }}">{{ site.copyright | default: site.title }}</a>.</div>
