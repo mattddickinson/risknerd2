@@ -12,13 +12,13 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default"
 
 # Site Settings
 locale                   : "en-CA"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "RiskNerd Consulting"
-title_separator          : "-"
+title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "RiskNerd Consulting"
 description              : "An amazing website."
@@ -155,9 +155,8 @@ footer:
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+    - title: "Privacy Statement"
+      url: /privacy
 
 
 # Reading Files

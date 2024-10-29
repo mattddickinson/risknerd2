@@ -4,7 +4,5 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Solutions"
     url: /solutions
-  - title: "Privacy Statement"
-    url: /privacy
   - title: "Get in Touch"
     url: /contact
