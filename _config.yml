@@ -323,5 +323,5 @@ defaults:
       path: "_pages"
       type: pages
     values:
-      layout: 
+      layout: single
       author_profile: false
