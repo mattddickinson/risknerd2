@@ -2,7 +2,7 @@
 title: "Privacy Statement"
 layout: splash
 permalink: /privacy
-last_modified_at: 2024-10-26T18:01:38-03:00
+last_modified_at: 2024-10-26
 toc: true
 author_profile: false
 header:
