@@ -37,12 +37,12 @@ body {
 .page {
   @include breakpoint($large) {
     float: inline-end;
-    width: calc(100% - (#{$right-sidebar-width-narrow}*.25));
+    width: calc(100% - ({% if page.toc %}#{$right-sidebar-width-narrow}*.25){% else %}{% endif %});
     padding-inline-end: $right-sidebar-width-narrow;
   }
 
   @include breakpoint($x-large) {
-    width: calc(100% - (#{$right-sidebar-width}*.25));
+    width: calc(100% - ({% if page.toc %}#{$right-sidebar-width-narrow}*.25){% else %}{% endif %});
     padding-inline-end: $right-sidebar-width;
   }
 
