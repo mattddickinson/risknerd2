@@ -8,18 +8,15 @@ header:
   caption: ""
 excerpt: "We tailor our services to your organization to account for the unique factors that create value for you."
 feature_rowRM:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - image_path: assets/images/erm.png
     alt: ""
     title: "Enterprise Risk Management (ERM)"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/orm.png
     alt: ""
     title: "Operational Risk Management (ORM)"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/srm.png
     alt: ""
     title: "Strategic Risk Management"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: ""
     title: "Third-Party Risk Management"
