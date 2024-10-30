@@ -10,11 +10,11 @@ header:
 excerpt: "Want to get in touch? Let's talk about how we can support your business. Here's how to reach us:"    
 paragraph_indent: true
 feature_row:
-  - image_path: "{% include icon.html id="linkedin" title="linkedin" %}"
+  - image_path: ""
     alt: ""
     title: "LinkedIn"
     url: "https://www.linkedin.com/company/risknerd"
-  - image_path: "{% include icon.html id="email" title="email" %}"
+  - image_path: ""
     alt: "placeholder image 2"
     title: "Email"
     url: "mailto:info@risknerd.ca"
