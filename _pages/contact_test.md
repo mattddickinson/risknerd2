@@ -1,6 +1,6 @@
 ---
 title: "Get in Touch"
-permalink: /contact
+permalink: /contact_test
 hidden: true
 toc: false
 header:
