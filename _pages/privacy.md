@@ -1,7 +1,7 @@
 ---
 title: "Privacy Statement"
 last_modified_at: 2024-10-26
-layout: archive
+permalink: /
 toc: true
 toc_sticky: true
 header:
