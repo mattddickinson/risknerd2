@@ -18,5 +18,3 @@ paragraph_indent: true
 **Linkedin:**
 
 [{% include icon.html id="linkedin" title="linkedin" %}](https://www.linkedin.com/company/risknerd)[RiskNerd Consulting](https://www.linkedin.com/company/risknerd "Connect on LinkedIn")
-
----
