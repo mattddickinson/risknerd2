@@ -3,7 +3,6 @@ title: "Solutions"
 permalink: /solutions
 hidden: true
 header:
-  overlay_color: "#5e616c"
   overlay_image: "/assets/images/header.png"
   caption: ""
 excerpt: "We tailor our services to your organization to account for the unique factors that create value for you."
