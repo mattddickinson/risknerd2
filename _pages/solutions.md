@@ -16,18 +16,12 @@ feature_rowRM:
   - image_path: /assets/images/srm.png
     alt: ""
     title: "Strategic Risk Management"
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - image_path: assets/images/tprm.png
     alt: ""
     title: "Third-Party Risk Management"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: ""
-    title: "Reputation Risk Management"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/prm.png
     alt: ""
     title: "Privacy Risk Management"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_rowOR:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: ""
