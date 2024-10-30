@@ -1,6 +1,7 @@
 ---
 title: "Get in Touch"
 permalink: /contact
+layout: splash
 hidden: true
 toc: false
 header:
