@@ -1,6 +1,5 @@
 ---
 title: "Solutions"
-layout: splash
 permalink: /solutions
 hidden: true
 header:
