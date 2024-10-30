@@ -2,6 +2,7 @@
 title: "Privacy Statement"
 permalink: /privacy
 last_modified_at: 2024-10-26
+layout: archive
 toc: true
 toc_sticky: true
 header:
