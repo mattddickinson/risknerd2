@@ -136,7 +136,7 @@ $(document).ready(function () {
           anchor.className = "header-link";
           anchor.href = "#" + id;
           anchor.innerHTML =
-            '<span class="sr-only">Permalink</span><i class="fas fa-link"></i>';
+            '<span class="sr-only">Permalink</span>';
           anchor.title = "Permalink";
           element.appendChild(anchor);
         }
