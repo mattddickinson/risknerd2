@@ -56,13 +56,14 @@ feature_rowOR:
   
 ---
 
-# Risk Management
+## Risk Management
 
 {% include feature_row id="feature_rowRM" %}
 
-# Operational Resilience
+## Operational Resilience
 
 {% include feature_row id="feature_rowOR" %}
 
-# Business Process Analysis
+## Business Process Analysis
+
 A business process analysis reviews the business processes in your company, using data to identify and make changes that boost efficiency.
