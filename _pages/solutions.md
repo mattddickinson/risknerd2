@@ -10,18 +10,23 @@ feature_rowRM:
   - image_path: assets/images/erm.png
     alt: ""
     title: "Enterprise Risk Management (ERM)"
+    excerpt: ""
   - image_path: /assets/images/orm.png
     alt: ""
     title: "Operational Risk Management (ORM)"
+    excerpt: ""
   - image_path: /assets/images/srm.png
     alt: ""
     title: "Strategic Risk Management"
+    excerpt: ""
   - image_path: assets/images/tprm.png
     alt: ""
     title: "Third-Party Risk Management"
+    excerpt: ""
   - image_path: /assets/images/prm.png
     alt: ""
     title: "Privacy Risk Management"
+    excerpt: ""
 feature_rowOR:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: ""
