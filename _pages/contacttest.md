@@ -9,7 +9,7 @@ header:
   caption: ""
 excerpt: "Want to get in touch? Let's talk about how we can support your business. Here's how to reach us:"    
 paragraph_indent: true
-feature_rowcontact:
+feature_row:
   - image_path: "{% include icon.html id="linkedin" title="linkedin" %}"
     alt: ""
     title: "LinkedIn"
@@ -21,7 +21,7 @@ feature_rowcontact:
 
 ---
 
-{% include feature_rowcontact %}
+{% include feature_row %}
 
 **Email:**
 
