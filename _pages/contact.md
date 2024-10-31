@@ -16,6 +16,6 @@ paragraph_indent: true
 
 [{% include icon.html id="email" title="email" %}](mailto:info@risknerd.ca)[info@risknerd.ca](mailto:info@risknerd.ca "Send us an email")
 
-**Linkedin:**
+**LinkedIn:**
 
 [{% include icon.html id="linkedin" title="linkedin" color="$linkedin-color" %}](https://www.linkedin.com/company/risknerd)[RiskNerd Consulting](https://www.linkedin.com/company/risknerd "Connect on LinkedIn")
