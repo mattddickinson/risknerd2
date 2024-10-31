@@ -82,8 +82,9 @@ body {
 .page__lead {
   font-family: $global-font-family;
   font-size: $type-size-4;
+  
   p {
-    margin-bottom: 0;
+    margin-bottom: 0em;
   }
 }
 
