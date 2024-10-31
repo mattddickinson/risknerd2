@@ -144,7 +144,7 @@ footer:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/company/risknerd"
     - label: "Email"
-      icon: "fab fa-fw fa-email-square"
+      icon: "fas fa-fw fa-envelope-square"
       url: "mailto:info@risknerd.ca"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
