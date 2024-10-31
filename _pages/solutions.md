@@ -30,19 +30,19 @@ feature_rowRM:
 feature_rowOR:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: ""
-    title: "Business Continuity"
+    title: "Business Continuity Planning"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: ""
-    title: "Emergency Management"
+    title: "Emergency Management Planning"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: ""
-    title: "Disaster Recovery"
+    title: "Disaster Recovery Planning"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: ""
-    title: "Crisis Communications"
+    title: "Crisis Communications Planning"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: ""
