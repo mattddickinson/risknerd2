@@ -18,4 +18,4 @@ paragraph_indent: true
 
 **LinkedIn:**
 
-[{% include icon.html id="linkedin" title="linkedin" color="$linkedin-color" %}](https://www.linkedin.com/company/risknerd)[RiskNerd Consulting](https://www.linkedin.com/company/risknerd "Connect on LinkedIn")
+[{% include icon.html id="linkedin" title="linkedin" color="#0077B5" %}](https://www.linkedin.com/company/risknerd)[RiskNerd Consulting](https://www.linkedin.com/company/risknerd "Connect on LinkedIn")
