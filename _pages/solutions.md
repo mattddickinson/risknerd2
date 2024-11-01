@@ -6,6 +6,8 @@ header:
   overlay_image: "/assets/images/solutions.png"
   caption: ""
 excerpt: "We tailor our services to your organization to account for the unique factors that create value for you."
+toc: true
+toc_sticky: true
 feature_rowRM:
   - image_path: assets/images/erm.png
     alt: ""
