@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: "/assets/images/header.png"
+  overlay_image: "/assets/images/main2.png"
   caption: ""
 excerpt: "Specializing in risk management and process improvement, we are here to help your organization dive deep into issues to build resiliency, reduce uncertainty, and improve operations, all in the name of creating value."    
 ---
