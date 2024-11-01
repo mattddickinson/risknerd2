@@ -30,19 +30,19 @@ feature_rowRM:
 feature_rowOR:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: ""
-    title: "Business Continuity Planning"
+    title: "Business Continuity"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: ""
-    title: "Emergency Management Planning"
+    title: "Emergency Management"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: ""
-    title: "Disaster Recovery Planning"
+    title: "Disaster Recovery"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: ""
-    title: "Crisis Communications Planning"
+    title: "Crisis Communications"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: ""
@@ -58,7 +58,7 @@ feature_rowBPA:
 
 {% include feature_row id="feature_rowRM" %}
 
-## Operational Resilience
+## Operational Resilience Planning
 
 {% include feature_row id="feature_rowOR" %}
 
