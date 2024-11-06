@@ -30,28 +30,28 @@ feature_rowRM:
     title: "Privacy Risk Management"
     excerpt: ""
 feature_rowOR:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - image_path: /assets/images/bcp.png
     alt: ""
     title: "Business Continuity"
     excerpt: ""
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/emp.png
     alt: ""
     title: "Emergency Management"
     excerpt: ""
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/drp.png
     alt: ""
     title: "Disaster Recovery"
     excerpt: ""
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - image_path: /assets/images/ccp.png
     alt: ""
     title: "Crisis Communications"
     excerpt: ""
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - image_path: /assets/images/bia.png
     alt: ""
     title: "Business Impact Analysis"
     excerpt: ""
 feature_rowBPA:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/bpa.png
     alt: ""
     excerpt: 'A business process analysis reviews the business processes in your company, using data to identify and make changes that boost efficiency.'
 ---
