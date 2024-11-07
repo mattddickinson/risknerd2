@@ -29,6 +29,10 @@ feature_rowRM:
     alt: ""
     title: "Privacy Risk Management"
     excerpt: ""
+  - image_path: /assets/images/rmt.png
+    alt: ""
+    title: "Training Programs"
+    excerpt: ""
 feature_rowOR:
   - image_path: /assets/images/bcp.png
     alt: ""
