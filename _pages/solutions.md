@@ -54,6 +54,10 @@ feature_rowOR:
     alt: ""
     title: "Business Impact Analysis"
     excerpt: ""
+  - image_path: /assets/images/ttp.png
+    alt: ""
+    title: "Training and Tabletop Exercises"
+    excerpt: ""
 feature_rowBPA:
   - image_path: /assets/images/bpa.png
     alt: ""
