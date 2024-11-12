@@ -146,9 +146,9 @@ footer:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/company/risknerd"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/RiskNerd.bsky.social"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:

@@ -19,3 +19,7 @@ paragraph_indent: true
 **LinkedIn:**
 
 [{% include icon.html id="linkedin" title="linkedin" %}](https://www.linkedin.com/company/risknerd)[RiskNerd Consulting](https://www.linkedin.com/company/risknerd "Connect on LinkedIn")
+
+**Bluesky:**
+
+[{% include icon.html id="bluesky" title="bluesky" %}](https://bsky.app/profile/RiskNerd.bsky.social)[RiskNerd Consulting](https://bsky.app/profile/RiskNerd.bsky.social "Connect on Bluesky")
