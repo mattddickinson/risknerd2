@@ -199,6 +199,7 @@ body {
     animation: $intro-transition;
     -webkit-animation-delay: 0.25s;
     animation-delay: 0.25s;
+    min-height: 310px;
 
     a {
       color: #fff;
